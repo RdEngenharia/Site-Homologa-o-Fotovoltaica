@@ -562,7 +562,7 @@ const Gallery = () => {
     { url: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Setor Comercial" },
     { url: "/subestacao.png", span: "md:col-span-1 md:row-span-1", title: "Subestações" },
     { url: "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Automação" },
-    { url: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800", span: "md:col-span-2 md:row-span-1", title: "Projetos Elétricos" },
+    { url: "/obra4.png", span: "md:col-span-2 md:row-span-1", title: "Projetos Elétricos" },
   ];
 
   return (
