@@ -561,7 +561,7 @@ const Gallery = () => {
     { url: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&q=80&w=800", span: "md:col-span-2 md:row-span-2", title: "Energia Solar" },
     { url: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Setor Comercial" },
     { url: "/subestacao.png", span: "md:col-span-1 md:row-span-1", title: "Subestações" },
-    { url: "/foto.principal", span: "md:col-span-1 md:row-span-1", title: "Automação" },
+    { url: "/foto.principal.png", span: "md:col-span-1 md:row-span-1", title: "Automação" },
     { url: "/obra4.png", span: "md:col-span-2 md:row-span-1", title: "Projetos Elétricos" },
   ];
 
