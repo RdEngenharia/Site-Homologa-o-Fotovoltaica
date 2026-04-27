@@ -161,7 +161,7 @@ const CoverageArea = () => {
               2. Troque o link abaixo pelo nome do arquivo: src="/mapa_bahia.jpg"
           */}
           <img 
-            src="https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&q=80&w=1200" 
+            src="/foto.principal.png" 
             className="w-full h-[600px] object-cover group-hover:scale-105 transition-transform duration-1000" 
             alt="Bahia Paisagem" 
             referrerPolicy="no-referrer"
