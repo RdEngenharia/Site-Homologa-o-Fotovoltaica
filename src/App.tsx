@@ -477,10 +477,10 @@ const Services = () => {
 // --- CONFIGURAÇÃO DA GALERIA DE FOTOS (MOSAICO) ---
 const Gallery = () => {
   const images = [
-    { url: "/obra2.jpg", span: "md:col-span-2 md:row-span-2", title: "Aprovação Residencial" },
+    { url: "/obra1.jpg", span: "md:col-span-2 md:row-span-2", title: "Aprovação Residencial" },
     { url: "/subestacao.png", span: "md:col-span-1 md:row-span-1", title: "Subestações de Média Tensão" },
-    { url: "/obra3.png", span: "md:col-span-1 md:row-span-1", title: "Diagramas e Projetos" },
-    { url: "/obra4.png", span: "md:col-span-2 md:row-span-1", title: "Entregas Recentes" },
+    { url: "/obra4.png", span: "md:col-span-1 md:row-span-1", title: "Diagramas e Projetos" },
+    { url: "/obra3.png", span: "md:col-span-2 md:row-span-1", title: "Entregas Recentes" },
   ];
 
   return (
