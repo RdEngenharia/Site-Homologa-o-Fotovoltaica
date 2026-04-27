@@ -560,7 +560,7 @@ const Gallery = () => {
     // Para trocar estas imagens, salve na pasta /public e altere o link para '/sua-foto.jpg'
     { url: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&q=80&w=800", span: "md:col-span-2 md:row-span-2", title: "Energia Solar" },
     { url: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Setor Comercial" },
-    { url: "https://images.unsplash.com/photo-1558444479-c84826027201?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Subestações" },
+    { url: "/subestacao.png", span: "md:col-span-1 md:row-span-1", title: "Subestações" },
     { url: "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800", span: "md:col-span-1 md:row-span-1", title: "Automação" },
     { url: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800", span: "md:col-span-2 md:row-span-1", title: "Projetos Elétricos" },
   ];
