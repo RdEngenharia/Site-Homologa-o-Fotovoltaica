@@ -432,7 +432,7 @@ const Hero = () => {
           <div className="relative z-10 overflow-hidden rounded-2xl border border-white/10 shadow-2xl skew-y-1">
             {/* IMAGEM DESTAQUE DO SITE (PAINÉIS SOLARES / ENGENHARIA) */}
             <img 
-              src="https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=1200" 
+              src="/foto.principal.png" 
               alt="Instalação Solar RD" 
               className="w-full h-[540px] object-cover hover:scale-105 transition-transform duration-700"
               referrerPolicy="no-referrer"
@@ -447,7 +447,7 @@ const Hero = () => {
                   </div>
                   <div>
                     {/* TEXTO DO BOX FLUTUANTE SOBRE A IMAGEM */}
-                    <h4 className="text-white font-bold text-lg">Subestações MT</h4>
+                    <h4 className="text-white font-bold text-lg">Pagamento Facilitado</h4>
                     <p className="text-white/60 text-sm">Projetos de alta complexidade aprovados.</p>
                   </div>
                 </div>
