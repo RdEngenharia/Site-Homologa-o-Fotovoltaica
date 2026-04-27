@@ -32,7 +32,7 @@ const Testimonials = () => {
     {
       name: "Ricardo Mendes", // Nome do cliente
       role: "Síndico, Condomínio Solar das Palmeiras", // Cargo ou Local
-      content: "A rapidez na homologação junto à Coelba foi impressionante. Em menos de 30 dias já estávamos operando com o sistema solar. Excelente suporte técnico.", // Texto do depoimento
+      content: "A rapidez na homologação junto à Coelba foi impressionante. Em menos de 15 dias já estávamos operando com o sistema solar. Excelente suporte técnico.", // Texto do depoimento
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150" // Foto do cliente (pode ser link ou caminho local como '/cliente1.jpg')
     },
     {
@@ -397,7 +397,7 @@ const Hero = () => {
           
           {/* DESCRIÇÃO PRINCIPAL (HERO) */}
           <p className="text-white/60 text-lg md:text-xl max-w-xl leading-relaxed mb-10">
-            Suporte técnico especializado para integradores e clientes finais. Cuidamos de toda a burocracia junto à <span className="text-white font-bold underline decoration-solar-yellow decoration-2 underline-offset-4">Neoenergia</span> e concessionárias locais.
+            Suporte técnico especializado para integradores e clientes finais. Projetos Enviados em até 3 Dias. Cuidamos de toda a burocracia junto à <span className="text-white font-bold underline decoration-solar-yellow decoration-2 underline-offset-4">Neoenergia</span> e concessionárias locais.
           </p>
 
           <div className="flex flex-wrap gap-4">
