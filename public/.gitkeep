@@ -1,0 +1,2 @@
+# Esta pasta serve para armazenar arquivos estáticos como imagens, ícones e logos.
+# Ao salvar um arquivo aqui (ex: logo.png), você pode acessá-lo no código usando src="/logo.png"
