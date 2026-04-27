@@ -794,7 +794,6 @@ export default function App() {
             </div>
           </div>
         </section>
-        <Contact />
       </main>
       <Footer />
     </div>
