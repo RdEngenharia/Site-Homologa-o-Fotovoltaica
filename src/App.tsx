@@ -32,7 +32,7 @@ const Testimonials = () => {
     {
       name: "Ricardo Mendes", // Nome do cliente
       role: "Síndico, Condomínio Solar das Palmeiras", // Cargo ou Local
-      content: "A rapidez na homologação junto à Coelba foi impressionante. Em menos de 30 dias já estávamos operando com o sistema solar. Excelente suporte técnico.", // Texto do depoimento
+      content: "A rapidez na homologação junto à Coelba foi impressionante. Em menos de 15 dias já estávamos operando com o sistema solar. Excelente suporte técnico.", // Texto do depoimento
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150" // Foto do cliente (pode ser link ou caminho local como '/cliente1.jpg')
     },
     {
